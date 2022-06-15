@@ -9,11 +9,11 @@ The purpose of my analysis was to correlate success criteria for campaigns based
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcome vs Launch](Theater_Outcome_vs_Launch.PNG)
+![](https://user-images.githubusercontent.com/107078763/173824774-eaa800f8-a599-4fd1-b544-321d4c3015aa.png)
 
 
 ### Analysis of Outcomes Based on Goals
-
+![Outcomes_vs_Goal](https://user-images.githubusercontent.com/107078763/173825183-0adcc6b4-f89e-4d4d-8f65-127bf313f5e9.png)
 ### Challenges and Difficulties Encountered
 
 ## Results
